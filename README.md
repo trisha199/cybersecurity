@@ -100,7 +100,7 @@ The Streamlit web application allows users to upload a CSV file containing netwo
 
 ### Using the Application
 1. Access the application at [Darknet Traffic Prediction App](https://darknetdetect.streamlit.app/).
-2. Upload a CSV file with network traffic data called the holdout_set.csv file
+2. Upload a CSV file with network traffic data called the holdout_set.csv file: https://github.com/abh2050/cybersecurity/blob/main/holdout_set_mixed.csv
 3. View the predictions displayed in the application.
 
 ### Local Setup
