@@ -1,5 +1,14 @@
 ![image](https://www.investopedia.com/thmb/1hG4u1nwWnYnljZkoGq3dh7046o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dark-web-4198212-bdd6dd31665e440789a47bd7f2b14460.jpg)
 
+![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.4-blue?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue?style=flat&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-2.8.0-red?style=flat&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.7.0-orange?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-1.0.2-green?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.0.0-red?style=flat&logo=streamlit&logoColor=white)
+
+
 # Darknet Traffic Prediction
 
 ## Introduction
