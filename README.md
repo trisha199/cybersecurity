@@ -56,6 +56,26 @@ The model is a deep neural network built using TensorFlow and Keras. It consists
 - **Regularization**: Dropout layers to prevent overfitting.
 - **Optimizer**: Adam optimizer.
 
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ dense (Dense)               (None, 64)                4992      
+                                                                 
+ dropout (Dropout)           (None, 64)                0         
+                                                                 
+ dense_1 (Dense)             (None, 32)                2080      
+                                                                 
+ dropout_1 (Dropout)         (None, 32)                0         
+                                                                 
+ dense_2 (Dense)             (None, 1)                 33        
+                                                                 
+=================================================================
+Total params: 7,105
+Trainable params: 7,105
+Non-trainable params: 0
+_________________________________________________________________
+
 ### Training and Evaluation
 - The dataset is split into training and test sets, with standard scaling applied to the features.
 - Early stopping is used during training to prevent overfitting.
