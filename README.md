@@ -11,6 +11,11 @@
 
 # Darknet Traffic Prediction
 
+#APP overview
+![pic.png](https://github.com/abh2050/cybersecurity/blob/main/pic.png)
+Access the application at [Darknet Traffic Prediction App](https://darknetdetect.streamlit.app/).
+
+
 ## Introduction
 This repository contains a machine learning model and a Streamlit web application for predicting Darknet traffic. The project aims to classify internet traffic as either 'Malicious' or 'Safe', focusing on the analysis of Darknet traffic. Darknet traffic classification is crucial for early monitoring of malware and detection of malicious activities.
 CIC-Darknet2020
@@ -41,6 +46,13 @@ The CIC-Darknet2020 dataset is used for training the model. It includes benign a
 ### Visualizations
 ![](https://github.com/abh2050/cybersecurity/blob/main/flow%20vs%20packet.png)
 ![](https://github.com/abh2050/cybersecurity/blob/main/corelation.png)
+![flowvsiat.png](https://github.com/abh2050/cybersecurity/blob/main/flowvsiat.png)
+![flowiatmax.png](https://github.com/abh2050/cybersecurity/blob/main/flowiatmax.png)
+![pkglen.png](https://github.com/abh2050/cybersecurity/blob/main/pkglen.png)
+![pakcageen.png](https://github.com/abh2050/cybersecurity/blob/main/pakcageen.png)
+![flags.png](https://github.com/abh2050/cybersecurity/blob/main/flags.png)
+![flodur.png](https://github.com/abh2050/cybersecurity/blob/main/flodur.png)
+
 
 ### License and Citation
 The dataset can be redistributed, republished, and mirrored, but must include a citation to the CICDarknet2020 dataset and the associated research paper:
