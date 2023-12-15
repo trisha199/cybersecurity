@@ -1,4 +1,4 @@
-![image](https://www.investopedia.com/thmb/1hG4u1nwWnYnljZkoGq3dh7046o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dark-web-4198212-bdd6dd31665e440789a47bd7f2b14460.jpg)
+![](https://consumerfed.org/wp-content/uploads/2019/03/Dark-Web-Monitoring.jpg)
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3.4-blue?style=flat&logo=pandas&logoColor=white)
@@ -19,6 +19,7 @@ Darknet is the unused address space of the internet which is not speculated to i
 Darknet traffic classification is significantly important to categorize real-time applications. Analyzing darknet traffic helps in early monitoring of malware before onslaught and detection of malicious activities after outbreak.
 
 This research work proposes a novel technique to detect and characterize VPN and Tor applications together as the real representative of darknet traffic by amalgamating out two public datasets, namely, ISCXTor2016 and ISCXVPN2016, to create a complete darknet dataset covering Tor and VPN traffic respectively. In CICDarknet2020 dataset, a two-layered approach is used to generate benign and darknet traffic at the first layer. The darknet traffic constitutes Audio-Stream, Browsing, Chat, Email, P2P, Transfer, Video-Stream and VOIP which is generated at the second layer. To generate the representative dataset, we amalgamated our previously generated datasets, namely, ISCXTor2016 and ISCXVPN2016, and combined the respective VPN and Tor traffic in corresponding Darknet categories. Table 1 provides the details of darknet traffic categories, and the applications used to generate the network traffic.
+![image](https://www.investopedia.com/thmb/1hG4u1nwWnYnljZkoGq3dh7046o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/dark-web-4198212-bdd6dd31665e440789a47bd7f2b14460.jpg)
 
 ## Dataset - CIC-Darknet2020
 The CIC-Darknet2020 dataset is used for training the model. It includes benign and darknet traffic data, with the latter consisting of various categories such as Audio-Stream, Browsing, Chat, Email, P2P, Transfer, Video-Stream, and VOIP. The dataset is an amalgamation of ISCXTor2016 and ISCXVPN2016 datasets, covering Tor and VPN traffic. 
